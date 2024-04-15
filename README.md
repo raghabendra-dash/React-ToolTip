@@ -1,6 +1,6 @@
-###  React ToolTip ###
+##  React ToolTip ##
 
-**Overview**
+**Overview:**
 The Tooltip component provides a flexible and reusable way to add tooltips to elements in your React applications. Tooltips appear on hover and can display additional information, enhancing the user experience.
 
 > Go live: [Click Here](https://react-tool-tip-nine.vercel.app/)
